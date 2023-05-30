@@ -3,7 +3,7 @@ User-friendly GUI for database management. Insert, search, and scanning abilitie
 
 # Prerequisites
 To run the Database GUI application, ensure that you have the following prerequisites installed on your system:
--Latest JavaFX from https://openjfx.io
--Latest Apache NetBeans from https://netbeans.apache.org
--Latest JDK Installation from https://www.oracle.com/java/technologies/downloads/
--Apache Derby Database from https://db.apache.org/derby/
+1. Latest JavaFX from https://openjfx.io
+2. Latest Apache NetBeans from https://netbeans.apache.org
+3. Latest JDK Installation from https://www.oracle.com/java/technologies/downloads/
+4. Apache Derby Database from https://db.apache.org/derby/
