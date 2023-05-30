@@ -1,2 +1,2 @@
 # DataSync
-User-Friendly database management GUI
+User-friendly GUI for database management. Insert, search, and scanning abilities. Also, with a order history of past purchases.
