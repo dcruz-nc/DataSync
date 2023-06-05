@@ -14,7 +14,4 @@ To run the Database GUI application, ensure that you have the following prerequi
 3. My skills for front-end development improved
 4. Creating tables that are linked by foreign keys
 
-# Future plans
-1. Create the isJumping function to ensure smooth and accurate jumping mechanics
-2. Address the player sprite glitch where it appears to be standing still while moving to the right
-3. Introduce a new player model and different platform designs to enhance the visual experience
+
